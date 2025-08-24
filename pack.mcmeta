@@ -1,1 +1,16 @@
-{"pack":{"pack_format":61,"description":"§6§lMade By Prabin §9§ltechinpointgamerz "}}
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "§6§lSouls Resource Pack §r§7- §9§lMade By Prabin §7(techinpointgamerz)",
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 48
+    }
+  },
+  "meta": {
+    "name": "Souls Resource Pack",
+    "version": "1.0.0",
+    "author": "Prabin (techinpointgamerz)",
+    "minecraft_version": "1.21"
+  }
+}
